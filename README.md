@@ -4,7 +4,8 @@ Simple Python (3.x required) script, that has to mimic my way of solving sudoku.
 
 ## Installation
 
-```chmod +x sudoku.py
+```sh
+chmod +x sudoku.py
 ./sudoku.py
 ```
 
